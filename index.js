@@ -29,6 +29,6 @@ const Kumpul = async () => {
         await Api()
         await main();
         
-    }, 5000);
+    }, 3600000);
 }
 Kumpul()
